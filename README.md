@@ -4,6 +4,7 @@
 ##### Descroption
 Built COVID-19 Live Dashboard with Typescript, React.js React-Hooks, Redux-Toolkit, Chart.js
   - Tech Stacks
+    -  API - Covid-19 Mathdro.id 
     -  Typescript
     -  React.js
     -  React-Hooks
