@@ -38,16 +38,16 @@ const DashBoard:React.FC = () => {
      dispatch(fetchAsyncGetDaily());
    }, [dispatch])
   return (
-    <div>
+    <main>
       <AppBar position="absolute" color="secondary">
         <Toolbar className={classes.barColor}>
-          <Typography variant="h6" className={classes.title} >
+          <Typography variant="h6" className={classes.title+" "+styles.navFont} >
           <i className="fas fa-virus"></i>&nbsp;
-            COVID-19 Live Dashboard from API - Covid-19 Mathdro.id 
+            COVID-19 Live Dashboard
           </Typography>
              {data && (
-               <Typography variant="body1">
-                 {new Date(data.lastUpdate).toDateString()}
+               <Typography variant="body1" className={styles.navFont}>
+                 <i className="fas fa-calendar-alt"></i>&nbsp;{new Date(data.lastUpdate).toDateString()}
                </Typography>
              )}
         </Toolbar>
@@ -71,7 +71,7 @@ const DashBoard:React.FC = () => {
            </Grid>
          </Grid>
       </Container>
-    </div>
+    </main>
   )
 }
 
