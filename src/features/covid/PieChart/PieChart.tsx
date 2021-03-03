@@ -27,7 +27,8 @@ const PieChart = () => {
               "rgb(110, 189, 158)",
               "rgb(201, 215, 212)",
             ],
-            hoverBackgroundColor: ["#36A2EB", "##cb371", "#FF6384"],
+            
+            hoverBackgroundColor: ["#36A2EB", "rgb(235, 225, 85)", "#FF6384"],
             borderColor: ["transparent", "transparent", "transparent"],
           },
         ],
