@@ -1,8 +1,9 @@
-.footerStyles {
+footer {
   background-color: rgb(30, 111, 95);
   color: #fff;
   padding: 24px;
   margin-top: 20px;
+  text-align: center;
 }
 
 a {
@@ -12,12 +13,12 @@ a {
 
 @media screen and (max-width: 768px){
   .footerStyles {
-    font-size:0.8rem;
+    font-size:0.8rem !important;
   }
 }
 @media screen and (max-width: 320px){
   .footerStyles {
-    font-size:0.7rem;
+    font-size:0.7rem !important;
   }
 }
 
