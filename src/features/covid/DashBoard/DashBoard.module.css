@@ -1,5 +1,22 @@
+main{
+  flex: 1;
+}
+
 .container {
   display: flex;
   align-items: center;
   flex-direction: column;
 }
+
+@media (max-width:768px){
+  .navFont{
+    font-size: 1rem !important;
+  }
+}
+
+@media (max-width:376px){
+  .navFont{
+    font-size: 0.7rem !important;
+  }
+}
+
