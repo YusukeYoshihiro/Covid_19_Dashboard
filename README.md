@@ -14,4 +14,4 @@ Built COVID-19 Live Dashboard with Typescript, React.js React-Hooks, Redux-Toolk
     -  Material-UI 
     -  fontawesome
 
-<img width="800" alt="Screen Shot 2021-03-03 at 2 04 07 AM" src="https://user-images.githubusercontent.com/58486430/109789067-c8f15e00-7bc4-11eb-9ec5-ab3c7061dd32.png">
+![covid_19_Img](https://user-images.githubusercontent.com/58486430/110241179-4938fb80-7f04-11eb-9328-2c1a79c22fb8.png)
