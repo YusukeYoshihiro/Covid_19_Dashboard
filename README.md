@@ -14,4 +14,5 @@ Built COVID-19 Live Dashboard with Typescript, React.js React-Hooks, Redux-Toolk
     -  Material-UI 
     -  fontawesome
 
-![covid_19_Img](https://user-images.githubusercontent.com/58486430/110241179-4938fb80-7f04-11eb-9328-2c1a79c22fb8.png)
+![covid_19_Img_white](https://user-images.githubusercontent.com/58486430/110241763-5dcac300-7f07-11eb-880e-cedde82395a5.png)
+
